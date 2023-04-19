@@ -1,0 +1,77 @@
+[
+    {
+      "id": 1,
+      "price": 325 ,
+      "image": "./src/assets/homes/ann-wallace.jpg"
+    },
+    
+    {
+     "id": 2,
+     "price": 465,
+     "image": "./src/assets/homes/david-vives.jpg"
+    },
+              
+    { "id": 3,
+      "price": 225,
+      "image": "./src/assets/homes/doug-vos.jpg"
+    },
+    
+    { "id": 4,
+      "price": 300,
+      "image": "./src/assets/homes/fomstock.jpg"
+    },
+      
+    {
+      "id": 5,
+      "price": 225,
+      "image": "./src/assets/homes/jacques-bopp.jpg"
+    },
+    
+    {
+      "id": 6,
+      "price": 400,
+      "image": "./src/assets/homes/ralph-ravi.jpg"
+    },
+    
+    {
+      "id": 7,
+      "price": 375,
+      "image": "./src/assets/homes/ronnie-george.jpg"
+    },
+    
+    {
+      "id": 8,
+      "price": 225,
+      "image": "./src/assets/homes/sigmund.jpg"
+    },
+
+    {
+      "id": 9,
+      "price": 300,
+      "image": "./src/assets/homes/tessa-wilson.jpg"
+    },
+
+    {
+        "id": 10,
+        "price": 325,
+        "image": "./src/assets/homes/todd-kent.jpg"
+    },
+
+    {
+        "id": 11,
+        "price": 225,
+        "image": "./src/assets/homes/abbilyn-rurenko.jpg"
+        
+    },
+
+    {
+        "id": 12,
+        "price": 300,
+        "image": "./src/assets/homes/webaliser.jpg"
+    }
+
+]
+
+      
+    
+  
