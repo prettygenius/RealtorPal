@@ -1,3 +1,2 @@
-[RealtorPal](https://f94f7f-5173.csb.app/)
+[![RealtorPal](https://user-images.githubusercontent.com/64159001/233439291-c133c432-2b78-4829-ad55-56fcebb4aac2.png)](https://f94f7f-5173.csb.app/)
 
-real estate SPA using Material UI components
